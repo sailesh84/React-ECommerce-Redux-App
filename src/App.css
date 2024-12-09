@@ -1,0 +1,8 @@
+.products {
+  display: grid;
+  grid-template-columns: repeat(5, 2fr);
+}
+
+html, body{
+  max-width: 100%; overflow-x: hidden;
+}
